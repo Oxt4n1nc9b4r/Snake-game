@@ -1,1 +1,5 @@
-# Snake-game-
+# Snake-game 
+
+ # Install 
+  ``` 
+  ```
